@@ -1,7 +1,8 @@
 # 9 B&D One Galery
 
-Built a small gallery template. Feel free to use it if you like it. <br> 
-### Live preview : https://nazaneyn.github.io/B-W-Gallery/
+Simple galery Template<br>
+### Demo : https://ryuxyro.github.io/9bd-one-galery/
+### full source : https://github.com/nazaneyn/B-W-Gallery/
 
 ## To get started
 ```bash
